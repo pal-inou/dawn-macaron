@@ -1,0 +1,19 @@
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg14": Invalid quality: 140
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg12": Invalid quality: 120
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg10": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg08": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg06": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg03": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "FireShot Capture 048 - 〒169-0073 東京都新宿区百人町１丁目２３−４ - Google マップ - www.google.co.jp": Unsupported extension: jp
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg16": Invalid quality: 160
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg15": Invalid quality: 150
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg13": Invalid quality: 130
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg11": Invalid quality: 110
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg09": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg07": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg05": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg04": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg01": Duplicate path: 0d272d38dfe7d191acc781540c10397d_m フレーム.jpg
+[2021-2-25 18:19:03] layer "FireShot Capture 048 - 〒169-0073 東京都新宿区百人町１丁目２３−４ - Google マップ - www.google.co.jp": Unsupported extension: jp
+[2021-2-25 18:19:03] layer "FireShot Capture 048 - 〒169-0073 東京都新宿区百人町１丁目２３−４ - Google マップ - www.google.co.jp フレーム": Expected end of input but "\u30D5" found.
+[2021-2-25 18:19:03] layer "0d272d38dfe7d191acc781540c10397d_m フレーム.jpg17": Invalid quality: 170

@@ -1,0 +1,25 @@
+// 共通ボタン---------------------------------------------------------
+@mixin btn($bgc) {
+  display: block;
+  font-size: 2.4rem;
+  text-align: center;
+  color: #fff;
+  background-color: $bgc;
+  text-decoration: none;
+  transition: all 0.4s;
+
+  &:hover {
+    color: $bgc;
+    border: 1px solid $bgc;
+    background-color: #fff;
+    transition: all 0.4s;
+    cursor: pointer;
+  }
+}
+
+// メディアクエリー--------------------------------------------------
+@mixin mq($breakpoint) {
+  @media #{map-get($breakpoints, $breakpoint)} {
+    @content;
+  }
+}

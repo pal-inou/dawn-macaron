@@ -1,0 +1,36 @@
+//==============================================================
+//サイトの基本設定
+//==============================================================
+
+// 幅関係の設定 -------------------------------------------------
+$width-base: 1370px; //全体
+$width-main: 1024px;  //メインエリアの幅
+
+// フォント関係の設定 --------------------------------------------
+$font-base: "Yu Gothic",Sans-Serif,"遊ゴシック Medium","游ゴシック体";
+$font-title: 'Great Vibes', cursive;
+
+// 色関係の設定 --------------------------------------------------
+//サイトカラー
+$color-main: #f7e7e7;
+$color-sub: #e4ecef;
+$color-nav: #e2bfcb;
+//フォントカラー
+$color-font: #624649;
+$color-title: #dd918e;
+//fv見出し文字・btnカラー
+$color-fv: #955e64;
+//リンクカラー
+$color-btn: #dd918e;
+$color-cart: #5270ce;
+
+// レスポンシブの設定 ----------------------------------------------
+// レイアウト幅
+$layout-width-inner: 1024px;
+
+// ブレークポイント
+$breakpoints: (
+  "sp": "screen and (max-width: 767px)",
+  "tab": "screen and (max-width: #{$layout-width-inner - 1px})",
+  "pc": "screen and (min-width: #{$layout-width-inner})",
+);

@@ -1,0 +1,95 @@
+/* -------------------- */
+/* base */
+/* -------------------- */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6em;
+  line-height: 1.8;
+  letter-spacing: 0.05em;
+  font-family: $font-base;
+  color: $color-font;
+  @include mq("sp") {
+    overflow-x: hidden;
+  }
+
+  .noscroll {
+    overflow: hidden; /*範囲内に収まらない部分を隠す*/
+  }
+}
+
+ul,
+li,
+ol {
+  list-style-type: none;
+}
+
+address {
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+  transition: 0.6s;
+}
+
+a:hover {
+  transition: 0.6s;
+}
+
+img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+.container {
+  max-width: $width-main;
+  margin: 0 auto;
+  width: 90%;
+  @include mq("sp") {
+    padding: 0 4vw;
+    width: 100%;
+  }
+}
+
+.section {
+  &-wrapper {
+    padding: 80px 0 80px;
+    @include mq("sp") {
+      padding: 60px 0;
+    }
+  }
+
+  &-title {
+    color: $color-title;
+    margin: 0 auto 40px;
+    text-align: center;
+    @include mq("sp") {
+      margin-bottom: 40px;
+    }
+
+    &_en {
+      font-size: 4.8rem;
+      font-family: $font-title;
+      line-height: 1;
+      letter-spacing: 0.09em;
+      font-weight: lighter;
+    }
+  }
+}
+
+.link-btn {
+  @include btn($color-btn);
+  margin: 0 auto;
+  width: 250px;
+  line-height: 2.1;
+}
+
+.fv-purchase-btn {
+  @include btn($color-fv);
+  width: 300px;
+  line-height: 3;
+  margin: 0 auto;
+}
